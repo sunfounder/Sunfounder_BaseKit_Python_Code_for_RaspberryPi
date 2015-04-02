@@ -1,2 +1,8 @@
-# Sunfounder_BaseKit_Python_Code_for_RaspberryPi
-Sunfounder Base Kit Python Code for Raspberry Pi
+## Sunfounde Base Kit Python Code for Raspberry Pi
+
+Website:
+	www.sunfounder.com
+
+E-mail:
+	support@sunfounder.com
+
